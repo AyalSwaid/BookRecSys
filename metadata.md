@@ -13,4 +13,6 @@ detailed info about 52k books from Goodread. We considering this dataset becuase
 link: [https://www.kaggle.com/datasets/austinreese/goodreads-books]
 31 features about milions of books that are gathered using web scraping and not using the api
 
+## 4. Book rec system dataset
+[https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset?select=Ratings.csv]
 
